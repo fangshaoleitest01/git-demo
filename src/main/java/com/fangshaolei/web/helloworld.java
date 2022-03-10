@@ -3,7 +3,7 @@ package com.fangshaolei.web;
 /**
  * @author fangshaolei
  * @version 1.0.0
- * @ClassName helloworld
+ * @className helloworld
  * @Description 这是一个test
  * @createTime 2022/03/10 16:38
  **/
@@ -15,5 +15,7 @@ public class helloworld {
         System.out.println("添加了一些新的功能");
         System.out.println("master commit");
         System.out.println("hot-fix分支");
+        System.out.println("master");
+        System.out.println("test");
     }
 }
