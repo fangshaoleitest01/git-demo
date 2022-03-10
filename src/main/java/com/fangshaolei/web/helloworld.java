@@ -12,5 +12,6 @@ public class helloworld {
         System.out.println("test");
         System.out.println("hello git2");
         System.out.println("hello git3");
+        System.out.println("添加了一些新的功能");
     }
 }
