@@ -14,5 +14,6 @@ public class helloworld {
         System.out.println("hello git3");
         System.out.println("添加了一些新的功能");
         System.out.println("master commit");
+        System.out.println("hot-fix分支");
     }
 }
